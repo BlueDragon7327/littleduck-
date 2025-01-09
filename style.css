@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+#title{
+    color: cyan;
+    text-align: center;
+    position: absolute; /* Allows precise positioning */
+    top: 25%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#subscribe{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    font-size: 100px;
+    border-radius: 15px;
+    position: absolute; /* Allows precise positioning */
+    top: 50%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+    cursor: pointer;
+}
+#subscribe:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 42, 42);
+    font-size: 110px;
+    border-radius: 15px;
+    position: absolute; /* Allows precise positioning */
+    top: 50%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#toolate{
+    color: cyan;
+    text-align: center;
+    position: absolute; /* Allows precise positioning */
+    top: 15%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#here{
+    color: cyan;
+    text-align: center;
+    position: absolute; /* Allows precise positioning */
+    top: 25%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#enjoy{
+    color: cyan;
+    text-align: center;
+    position: absolute; /* Allows precise positioning */
+    top: 35%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#ending{
+    color: cyan;
+    text-align: center;
+    position: absolute; /* Allows precise positioning */
+    top: 45%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
+#picture{
+    height: 200px;
+    position: absolute; /* Allows precise positioning */
+    top: 75%; /* Moves the element halfway down the screen */
+    left: 50%; /* Moves the element halfway across the screen */
+    transform: translate(-50%, -50%); /* Offsets by half its own width and height */
+}
